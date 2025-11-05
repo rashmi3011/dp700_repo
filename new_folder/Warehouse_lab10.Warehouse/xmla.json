@@ -130,20 +130,6 @@
             ]
           },
           {
-            "name": "LastName",
-            "dataType": "string",
-            "sourceColumn": "LastName",
-            "sourceProviderType": "varchar",
-            "sourceLineageTag": "LastName",
-            "summarizeBy": "none",
-            "annotations": [
-              {
-                "name": "SummarizationSetBy",
-                "value": "Automatic"
-              }
-            ]
-          },
-          {
             "name": "AddressLine1",
             "dataType": "string",
             "sourceColumn": "AddressLine1",
